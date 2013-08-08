@@ -1,0 +1,9 @@
+{
+  "name": "bootstrap",
+  "description": "Meteor package wrapper for bootstrap",
+  "homepage": "https://github.com/cfriel/meteor-bootstrap",
+  "author": "Chris Friel",
+  "version": "1.0.0",
+  "git": "https://github.com/cfriel/meteor-bootstrap.git",
+  "packages": {}
+}
